@@ -1,9 +1,3 @@
-"""
-oak_discord.py
-OAK — Morgan Heights Studio Discord Bot
-Run with: python3 oak_discord.py
-Requires: pip install discord.py anthropic requests
-"""
 
 import discord
 import anthropic
